@@ -1,4 +1,6 @@
 # NodeGainsDB v1.0 - Roid Rage Edition
+`Inspired from fellow Gym Bro Neo4j Syntaxes`
+
 ### NodeGains is BULKING, NOT at its best physique. "Wait for the CUT"
 
 
