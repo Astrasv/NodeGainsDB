@@ -8,7 +8,7 @@ def run_cli():
     print("Welcome to NodeGainsDB, bro! Time to flex some data gains—type 'help'!")
 
     while True:
-        command = input("> ").strip()
+        command = input("GymShell> ").strip()
         if not command:
             continue
         try:
